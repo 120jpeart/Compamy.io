@@ -1,2 +1,2 @@
-# Compamy.io
+# portfolio.io
 Restaurant
